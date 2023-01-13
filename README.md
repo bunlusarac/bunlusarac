@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **bunlusarac/bunlusarac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a system administrator who is excited about platform engineering. I hope my code junkpile entertains you during your stay.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/7127523/211918257-68724279-8780-48a0-80ba-ec70e685fb98.jpg">
 </p>
